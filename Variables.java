@@ -9,9 +9,11 @@ public class Variables {
 
 
 
-        int number = 56;  // variables must be initialized before using
+        int number = 56;  
 
-//        int anotherNum = 4 + number;
+        int anotherNum = 4 + number;
+
+          int oneMore = 33;
 
         System.out.println(number);
 
